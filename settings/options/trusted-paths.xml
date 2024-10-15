@@ -2,6 +2,7 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/IdeaProjects/c-space-processing" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/fx_testing" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/learn_javafx" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/learn_javafx2" value="true" />
